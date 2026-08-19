@@ -1,0 +1,13 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="MIT"
+
+[[mixins]]
+config="gnd_compat_fix.mixins.json"
+
+[[mods]]
+modId="gnd_compat_fix"
+version="1.0.0"
+displayName="G&D Live Compat Fix"
+description="Fixes dedicated server crashes in NightFall and provides modpack compatibility fixes."
+authors="vivo9"

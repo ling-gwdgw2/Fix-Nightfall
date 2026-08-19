@@ -1,0 +1,20 @@
+# Build and temp directories
+build/
+classes/
+*.log
+*.tmp
+javac_args.txt
+
+# Local deployment config (Contains personal paths)
+deploy_targets.txt
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# OS files
+.DS_Store
+Thumbs.db
